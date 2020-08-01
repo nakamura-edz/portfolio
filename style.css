@@ -3,13 +3,14 @@ body{
     background: #cccccc;
 }
 
+
 .mainInner{
-    max-width: 650px;
     margin: auto;
     padding: 0 20px;
 }
 
-.p.icon img{
-    width: 5px;    /*リサイズしたい*/
+.mainInner .icon img{
+    width: 50px;    /*リサイズしたい*/
+    border-radius: 20px;
     /*display: block;*/ 
 }
