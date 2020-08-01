@@ -1,0 +1,15 @@
+body{
+    font-family: "arial unicode ms", sans-serif;
+    background: #cccccc;
+}
+
+.mainInner{
+    max-width: 650px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.p.icon img{
+    width: 5px;    /*リサイズしたい*/
+    /*display: block;*/ 
+}
