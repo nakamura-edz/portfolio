@@ -5,12 +5,13 @@ body{
 
 
 .mainInner{
+    max-width: 650px;
     margin: auto;
-    padding: 0 20px;
+    /*padding: 0 20px;*/
 }
 
 .mainInner .icon img{
-    width: 50px;    /*リサイズしたい*/
-    border-radius: 20px;
-    /*display: block;*/ 
+    padding: 0 225px;
+    width: 200px;    /*Resize*/
+    border-radius: 50%;    /*角丸*/
 }
